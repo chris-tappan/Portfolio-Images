@@ -1,1 +1,1 @@
-Various scresnshots from projects with private codebases.
+Various screenshots from projects with private codebases.
